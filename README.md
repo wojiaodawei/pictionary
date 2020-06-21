@@ -16,6 +16,7 @@ $ python3 pictionary.py
 * the players are randomly and evenly assigned to a team
 * first to 10 points wins (2 pts gap)
 * 1 minute to make your teammates guess the word
+* teams take turns playing a word
 
 If the word is found before the time has elapsed, it is possible to stop the countdown and move on to the next guess, simply by using the keyboard shortcut *Ctrl+C*.
 
